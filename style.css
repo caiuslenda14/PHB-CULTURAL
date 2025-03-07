@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+}
+.top{
+    background-color: black;
+    img{
+        margin: 0 0 10px 20px;
+        width: 12%;
+    }
+}
+body{
+    background-image: url(/png/bodybackground.png);
+    background-size: 100%;
+}
