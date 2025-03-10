@@ -31,7 +31,7 @@
     }
 
     body {
-        background-image: url(png/bodybackground.png);
+        background-image: url(../png/bodybackground.png);
         background-size: 100%;
     }
     .evento1{
